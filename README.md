@@ -9,32 +9,28 @@
 
 <br/>
 
-### 🛠️ Tech Stack
+#### <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Tech%20Stack&section=footer&textBg=false&animation=twinkling" />
 
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Mobile-FF6B6B?style=for-the-badge&logo=android&logoColor=white" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" height="50" />
-    </td>
-    <td align="center" width="200">
       <img src="https://img.shields.io/badge/Backend-4ECDC4?style=for-the-badge&logo=ktor&logoColor=white" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ktor,mysql&theme=dark" height="50" />
+      <img src="https://skillicons.dev/icons?i=python,mysql,java,nodejs,expressjs&theme=dark" height="50" />
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/Frontend-FFE66D?style=for-the-badge&logo=react&logoColor=black" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" height="50" />
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwindcss&theme=dark" height="50" />
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/Tools-A8E6CF?style=for-the-badge&logo=git&logoColor=black" /><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" height="50" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,webstorm&theme=dark" height="50" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-### 📊 GitHub Analytics
+#### <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Github%20Analytics&section=footer&textBg=false&animation=twinkling" />
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zitehh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=12" />
@@ -51,17 +47,13 @@
 
 <br/>
 
----
-
-### 🏆 GitHub Trophies
+#### <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Github%20Trophies&section=footer&textBg=false&animation=twinkling" />
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zitehh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
 <br/>
-
----
 
 ### 🌐 Let's Connect
 
@@ -75,8 +67,6 @@
 </p>
 
 <br/>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zitehh&color=58A6FF&style=for-the-badge&label=Profile+Views" />
