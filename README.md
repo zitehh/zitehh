@@ -33,16 +33,16 @@
 #### <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Github%20Analytics&section=footer&textBg=false&animation=twinkling" />
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zitehh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=12" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=zitehh&theme=tokyonight&hide_border=true&background=0D1117&border_radius=12&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zitehh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=zitehh&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zitehh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zitehh&layout=compact&theme=tokyonight&hide_border=true&border_radius=18" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zitehh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zitehh&theme=tokyo-night&hide_border=true&area=true" alt="activity-graph"/>
 </p>
 
 <br/>
